@@ -1,9 +1,9 @@
 ﻿{
-    "generated_at":  "2026-05-09 21:01:45",
+    "generated_at":  "2026-05-09 21:03:19",
     "flags":  {
                   "SSD_GITHUB_SYNC_READY":  false,
                   "NORMAL_WORK_ALLOWED":  false,
-                  "INFOS_REPO_READY":  false,
+                  "INFOS_REPO_READY":  true,
                   "WEBSITE_PLANUNG_READY":  true,
                   "TRADING_ZENTRALE_GITHUB_SYNCED":  true,
                   "TRADING_ZENTRALE_WORKTREE_CLEAN":  false,
@@ -23,9 +23,9 @@
                       "origin_remote":  "https://github.com/kjdkd/REPO-VERWALTUNG-INFOS.git",
                       "branch":  "main",
                       "ahead_behind":  "0 0",
-                      "dirty":  true,
-                      "classification":  "DIRTY_NEEDS_REVIEW",
-                      "reason":  "Worktree not clean"
+                      "dirty":  false,
+                      "classification":  "CLEAN_SYNCED",
+                      "reason":  "Clean worktree and in sync with origin/main"
                   },
                   {
                       "repo":  "kjdkd/Trading-Zentrale",
