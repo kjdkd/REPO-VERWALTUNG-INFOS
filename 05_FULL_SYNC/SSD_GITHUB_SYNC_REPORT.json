@@ -1,14 +1,14 @@
 ﻿{
-    "generated_at":  "2026-05-09 20:10:55",
+    "generated_at":  "2026-05-09 20:11:46",
     "flags":  {
                   "SSD_GITHUB_SYNC_READY":  false,
                   "NORMAL_WORK_ALLOWED":  false,
                   "INFOS_REPO_READY":  true,
-                  "WEBSITE_PLANUNG_READY":  false,
-                  "TRADING_ZENTRALE_GITHUB_SYNCED":  false,
+                  "WEBSITE_PLANUNG_READY":  true,
+                  "TRADING_ZENTRALE_GITHUB_SYNCED":  true,
                   "TRADING_ZENTRALE_WORKTREE_CLEAN":  false,
-                  "RHIN_KANU_GITHUB_SYNCED":  false,
-                  "RHIN_KANU_WORKTREE_CLEAN":  false,
+                  "RHIN_KANU_GITHUB_SYNCED":  true,
+                  "RHIN_KANU_WORKTREE_CLEAN":  true,
                   "CAPITAL_BOT_READY":  false,
                   "GOLD_DATABASE_READY":  false
               },
@@ -21,9 +21,69 @@
                       "origin_remote":  "https://github.com/kjdkd/REPO-VERWALTUNG-INFOS.git",
                       "branch":  "main",
                       "ahead_behind":  "0 0",
+                      "dirty":  false,
+                      "classification":  "CLEAN_SYNCED",
+                      "reason":  "Clean worktree and in sync with origin/main"
+                  },
+                  {
+                      "repo":  "kjdkd/Trading-Zentrale",
+                      "path":  "D:\\TZ\\TRADING-ZENTRALE",
+                      "exists":  true,
+                      "is_git_repo":  true,
+                      "origin_remote":  "https://github.com/kjdkd/Trading-Zentrale.git",
+                      "branch":  "main",
+                      "ahead_behind":  "0 0",
                       "dirty":  true,
                       "classification":  "DIRTY_NEEDS_REVIEW",
-                      "reason":  "Origin mismatch"
+                      "reason":  "Worktree not clean"
+                  },
+                  {
+                      "repo":  "kjdkd/CAPITAL_BOT",
+                      "path":  "D:\\CAPITAL_BOT",
+                      "exists":  true,
+                      "is_git_repo":  false,
+                      "origin_remote":  "",
+                      "branch":  "",
+                      "ahead_behind":  "",
+                      "dirty":  null,
+                      "classification":  "LOCAL_NON_GIT_CONFLICT",
+                      "reason":  "Path exists but is not a git repository"
+                  },
+                  {
+                      "repo":  "kjdkd/GOLD-DATABASE",
+                      "path":  "D:\\GOLD-DATABASE",
+                      "exists":  true,
+                      "is_git_repo":  false,
+                      "origin_remote":  "",
+                      "branch":  "",
+                      "ahead_behind":  "",
+                      "dirty":  null,
+                      "classification":  "LOCAL_NON_GIT_CONFLICT",
+                      "reason":  "Path exists but is not a git repository"
+                  },
+                  {
+                      "repo":  "kjdkd/Rhin-Kanu",
+                      "path":  "D:\\WEB_PROJECTS\\Rhin-Kanu",
+                      "exists":  true,
+                      "is_git_repo":  true,
+                      "origin_remote":  "https://github.com/kjdkd/Rhin-Kanu.git",
+                      "branch":  "main",
+                      "ahead_behind":  "0 0",
+                      "dirty":  false,
+                      "classification":  "CLEAN_SYNCED",
+                      "reason":  "Clean worktree and in sync with origin/main"
+                  },
+                  {
+                      "repo":  "kjdkd/WEBSITE-PLANUNG",
+                      "path":  "D:\\WEB_PROJECTS\\WEBSITE-PLANUNG",
+                      "exists":  true,
+                      "is_git_repo":  true,
+                      "origin_remote":  "https://github.com/kjdkd/WEBSITE-PLANUNG.git",
+                      "branch":  "main",
+                      "ahead_behind":  "0 0",
+                      "dirty":  false,
+                      "classification":  "CLEAN_SYNCED",
+                      "reason":  "Clean worktree and in sync with origin/main"
                   }
               ]
 }
