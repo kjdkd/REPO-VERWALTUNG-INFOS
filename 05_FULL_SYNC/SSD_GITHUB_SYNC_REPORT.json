@@ -1,0 +1,95 @@
+﻿{
+    "generated_at":  "2026-05-09 20:00:40",
+    "flags":  {
+                  "SSD_GITHUB_SYNC_READY":  false,
+                  "NORMAL_WORK_ALLOWED":  false,
+                  "INFOS_REPO_READY":  false,
+                  "WEBSITE_PLANUNG_READY":  false,
+                  "TRADING_ZENTRALE_GITHUB_SYNCED":  true,
+                  "TRADING_ZENTRALE_WORKTREE_CLEAN":  false,
+                  "RHIN_KANU_GITHUB_SYNCED":  true,
+                  "RHIN_KANU_WORKTREE_CLEAN":  false,
+                  "CAPITAL_BOT_READY":  false,
+                  "GOLD_DATABASE_READY":  false
+              },
+    "repos":  [
+                  {
+                      "repo":  "kjdkd/REPO-VERWALTUNG-INFOS",
+                      "path":  "D:\\REPO-VERWALTUNG\\INFOS",
+                      "exists":  true,
+                      "is_git_repo":  true,
+                      "origin_remote":  "https://github.com/kjdkd/REPO-VERWALTUNG-INFOS.git",
+                      "branch":  "main",
+                      "ahead_behind":  "0 0",
+                      "dirty":  true,
+                      "classification":  "DIRTY_NEEDS_REVIEW",
+                      "reason":  "Worktree not clean"
+                  },
+                  {
+                      "repo":  "kjdkd/Trading-Zentrale",
+                      "path":  "D:\\TZ\\TRADING-ZENTRALE",
+                      "exists":  true,
+                      "is_git_repo":  true,
+                      "origin_remote":  "https://github.com/kjdkd/Trading-Zentrale.git",
+                      "branch":  "main",
+                      "ahead_behind":  "0 0",
+                      "dirty":  true,
+                      "classification":  "DIRTY_NEEDS_REVIEW",
+                      "reason":  "Worktree not clean"
+                  },
+                  {
+                      "repo":  "kjdkd/CAPITAL_BOT",
+                      "path":  "D:\\CAPITAL_BOT",
+                      "exists":  true,
+                      "is_git_repo":  false,
+                      "origin_remote":  "",
+                      "branch":  "",
+                      "ahead_behind":  "",
+                      "dirty":  null,
+                      "classification":  "LOCAL_NON_GIT_CONFLICT",
+                      "reason":  "SAFE_TO_BACKUP_AND_CLONE: Folder is empty"
+                  },
+                  {
+                      "repo":  "kjdkd/GOLD-DATABASE",
+                      "path":  "D:\\GOLD-DATABASE",
+                      "exists":  true,
+                      "is_git_repo":  false,
+                      "origin_remote":  "",
+                      "branch":  "",
+                      "ahead_behind":  "",
+                      "dirty":  null,
+                      "classification":  "LOCAL_NON_GIT_CONFLICT",
+                      "reason":  "SAFE_TO_BACKUP_AND_CLONE: Folder is empty"
+                  },
+                  {
+                      "repo":  "kjdkd/Rhin-Kanu",
+                      "path":  "D:\\WEB_PROJECTS\\Rhin-Kanu",
+                      "exists":  true,
+                      "is_git_repo":  true,
+                      "origin_remote":  "https://github.com/kjdkd/Rhin-Kanu.git",
+                      "branch":  "main",
+                      "ahead_behind":  "0 0",
+                      "dirty":  true,
+                      "classification":  "DIRTY_NEEDS_REVIEW",
+                      "reason":  "Worktree not clean"
+                  },
+                  {
+                      "repo":  "kjdkd/WEBSITE-PLANUNG",
+                      "path":  "D:\\WEB_PROJECTS\\WEBSITE-PLANUNG",
+                      "exists":  true,
+                      "is_git_repo":  true,
+                      "origin_remote":  "https://github.com/kjdkd/WEBSITE-PLANUNG.git",
+                      "branch":  "main",
+                      "ahead_behind":  "",
+                      "dirty":  null,
+                      "classification":  "DIRTY_NEEDS_REVIEW",
+                      "reason":  "Validation error: fatal: ambiguous argument \u0027origin/main...main\u0027: unknown revision or path not in the working tree."
+                  }
+              ],
+    "reports":  {
+                    "CAPITAL_BOT_NON_GIT_REVIEW":  "D:\\REPO-VERWALTUNG\\INFOS\\05_FULL_SYNC\\CAPITAL_BOT_NON_GIT_REVIEW.md",
+                    "GOLD_DATABASE_NON_GIT_REVIEW":  "D:\\REPO-VERWALTUNG\\INFOS\\05_FULL_SYNC\\GOLD_DATABASE_NON_GIT_REVIEW.md",
+                    "TRADING_ZENTRALE_DIRTY_REVIEW":  "D:\\REPO-VERWALTUNG\\INFOS\\05_FULL_SYNC\\TRADING_ZENTRALE_DIRTY_REVIEW.md",
+                    "RHIN_KANU_DIRTY_REVIEW":  "D:\\REPO-VERWALTUNG\\INFOS\\05_FULL_SYNC\\RHIN_KANU_DIRTY_REVIEW.md"
+                }
+}
