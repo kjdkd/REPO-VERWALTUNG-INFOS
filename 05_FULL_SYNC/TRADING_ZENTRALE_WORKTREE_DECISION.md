@@ -1,14 +1,15 @@
 ﻿# TRADING_ZENTRALE Worktree Decision
 
-Generated: 2026-05-09 21:00:44
+Generated: 2026-05-10 (Issue #59 Update)
 Path: D:\TZ\TRADING-ZENTRALE
 
 ## Summary
 - github_synced: true
-- worktree_clean: false
-- TRADING_ZENTRALE_FETCH_OK=False
+- worktree_clean: false (2 CODE files uncommitted intentionally)
+- TRADING_ZENTRALE_FETCH_OK=False (geometric-repack Fehler, nicht-destruktiv)
 - TRADING_ZENTRALE_FSCK_OK=True
-- safe_docs_commit_done=true (commit 14790b1)
+- safe_docs_commit_done=true (commit 71e3896, Issue #59)
+- scripts_held_back=true (scripts/full_system_validation.py, scripts/verify_project_migration.py → CODE, DO_NOT_COMMIT)
 
 ## diff --stat
  .gitignore                                  |   1 +
